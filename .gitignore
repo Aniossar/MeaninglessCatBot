@@ -1,0 +1,8 @@
+/src/main/resources/data.properties
+target/
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
